@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cpaAWHkwKk3o3wL+yu5+2urclOHH9PM/4K6PE+XZpX8=",
+  "Source": "BookStorePG",
+  "BasePath": "_content/BookStorePG",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
