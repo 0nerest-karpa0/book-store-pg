@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\asp\\BookStorePG\\BookStorePG.csproj": {}
+    "C:\\Shostak Vasilily\\crypto-tracker\\book-store-pg\\BookStorePG\\BookStorePG.csproj": {}
   },
   "projects": {
-    "E:\\asp\\BookStorePG\\BookStorePG.csproj": {
+    "C:\\Shostak Vasilily\\crypto-tracker\\book-store-pg\\BookStorePG\\BookStorePG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\asp\\BookStorePG\\BookStorePG.csproj",
+        "projectUniqueName": "C:\\Shostak Vasilily\\crypto-tracker\\book-store-pg\\BookStorePG\\BookStorePG.csproj",
         "projectName": "BookStorePG",
-        "projectPath": "E:\\asp\\BookStorePG\\BookStorePG.csproj",
-        "packagesPath": "C:\\Users\\name\\.nuget\\packages\\",
-        "outputPath": "E:\\asp\\BookStorePG\\obj\\",
+        "projectPath": "C:\\Shostak Vasilily\\crypto-tracker\\book-store-pg\\BookStorePG\\BookStorePG.csproj",
+        "packagesPath": "C:\\Users\\ByteSchool_08\\.nuget\\packages\\",
+        "outputPath": "C:\\Shostak Vasilily\\crypto-tracker\\book-store-pg\\BookStorePG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\name\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ByteSchool_08\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -79,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
